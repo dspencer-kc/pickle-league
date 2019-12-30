@@ -1,0 +1,13 @@
+Requirements:
+
+Register users
+Users join league, as team
+Handle high volume league signups
+Admins - create league,set fee
+Leagues can have 6 to 17 players (maybe more)
+
+League standings
+court assignments
+League tournament
+Upon signup, fee is taken
+Credit card payment processing is required
